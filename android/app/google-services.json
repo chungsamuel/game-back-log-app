@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280734172453",
+    "project_id": "game-backlog-app-28900",
+    "storage_bucket": "game-backlog-app-28900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280734172453:android:dbbb6c20dcc4bd566d86cc",
+        "android_client_info": {
+          "package_name": "com.example.game_backlog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280734172453-4m6q2bnonm4j076ut4ive6u3cvpb8rod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXO9Zw-A9Zj-9dDFMfYzT2B3KxVUMuPC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280734172453-4m6q2bnonm4j076ut4ive6u3cvpb8rod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
