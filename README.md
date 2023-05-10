@@ -1,16 +1,8 @@
 # game_backlog_app
 
-A new Flutter project.
+Game Backlog App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app lets you organize your game backlog by adding them to a list.  
+You can search up games and favorite them to add them to your backlog.  
+When you finish a game, simply unfavorite the game to remove it from your baclog.
+The data is then stored to firebase database if you made an account.
